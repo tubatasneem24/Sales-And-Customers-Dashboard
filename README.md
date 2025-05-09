@@ -2,7 +2,7 @@
 
 This project showcases a dynamic **Sales & Customer Dashboard** built in **Tableau**, using four interlinked datasets to explore sales performance, customer insights, and profit trends over time.
 
-![Sales Dashboard](Sales%20dashboard.png)
+![Sales Dashboard]([Sales%20dashboard.png)](https://github.com/tubatasneem24/Sales-And-Customers-Dashboard/blob/main/Sales%20%26%20Customer%20Dashboard%20(Dynamic).pdf)
 
 ---
 
